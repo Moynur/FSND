@@ -9,7 +9,7 @@ cryptography==2.8
 DateTime==4.3
 dnspython==1.16.0
 ecdsa==0.15
-eventlet==0.25.1
+eventlet==0.31.0
 falcon==2.0.0
 Flask==1.1.1
 Flask-Cors==3.0.8
